@@ -6,3 +6,5 @@ My first design for a top tube on my bike
 |Material|Use|Laser Power|Laser Speed|Passes|
 |---|---|---|---|---|
 |VX21|Exterior|15%|200mm/s|2|
+|EVA|Padding|60%|150/s|1|
+|Nylon Liner|Internal Lining|15%|200mm/s|1|
