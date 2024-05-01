@@ -8,3 +8,11 @@ My first design for a top tube on my bike
 |VX21|Exterior|15%|200mm/s|2|
 |EVA|Padding|60%|150/s|1|
 |Nylon Liner|Internal Lining|15%|200mm/s|1|
+
+The bag is made up of two side panels (Left and Right), a top zipper panel, a bottom panel, and a back panel.
+|Piece|Panel|Material|Notes|
+|---|---|---|---|
+|A|Left Side|VX21|N/A|
+
+
+
