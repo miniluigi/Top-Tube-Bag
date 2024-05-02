@@ -21,6 +21,8 @@ The bag is made up of two side panels (Left and Right), a top zipper panel, a bo
 |Piece|Panel|Material|Notes|
 |---|---|---|---|
 |A|Left Side|VX21|N/A|
+|B|BB|VX21|N/A|
+
 
 
 - [x] Upload image of parts list
