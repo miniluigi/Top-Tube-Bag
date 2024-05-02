@@ -15,7 +15,7 @@ The bag is made up of two side panels (Left and Right), a top zipper panel, a bo
 |A|Left Side|VX21|N/A|
 
 
--[x] Upload image of parts list
--[] Draw parts List
--[] Stitch patterns
+- [x] Upload image of parts list
+- [] Draw parts List
+- [] Stitch patterns
 
