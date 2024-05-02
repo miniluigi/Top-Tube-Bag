@@ -17,6 +17,7 @@ My first design for a top tube on my bike
 |Nylon Liner|Internal Lining|15%|200mm/s|1|
 
 The bag is made up of two side panels (Left and Right), a top zipper panel, a bottom panel, and a back panel.
+<img src="https://github.com/miniluigi/Top-Tube-Bag/assets/45057973/f47677ae-5c6d-4611-90ff-72f69c0cdff4" width="300" height="225">
 |Piece|Panel|Material|Notes|
 |---|---|---|---|
 |A|Left Side|VX21|N/A|
@@ -24,5 +25,5 @@ The bag is made up of two side panels (Left and Right), a top zipper panel, a bo
 
 - [x] Upload image of parts list
 - [ ] Draw parts List
-- [ ] Figure out patterns
+- [ ] Figure out patterns with stitch lines
 
