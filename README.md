@@ -2,7 +2,7 @@
 My first design for a top tube on my bike
 
 
-![image](https://github.com/miniluigi/Top-Tube-Bag/assets/45057973/f00c3100-4ac4-45f1-8c4a-47dbe842ba4c|=100)
+![image](https://github.com/miniluigi/Top-Tube-Bag/assets/45057973/f00c3100-4ac4-45f1-8c4a-47dbe842ba4c|width=100)
 ![PocketSideBike](https://github.com/miniluigi/Top-Tube-Bag/assets/45057973/7c27af94-b1e9-4c42-8642-b5d0bf4b4131=250x250)|
 
 
