@@ -16,6 +16,6 @@ The bag is made up of two side panels (Left and Right), a top zipper panel, a bo
 
 
 - [x] Upload image of parts list
-- [] Draw parts List
-- [] Stitch patterns
+- [ ] Draw parts List
+- [ ] Figure out patterns
 
