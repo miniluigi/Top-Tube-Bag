@@ -15,6 +15,7 @@ My first design for a top tube on my bike
 |VX21|Exterior|15%|200mm/s|2|
 |EVA|Padding|60%|150mm/s|1|
 |Nylon Liner|Internal Lining|15%|200mm/s|1|
+|Mesh|Pocket|15%|200mm/s|1|
 
 The bag is made up of two side panels (Left and Right), a top zipper panel, a bottom panel, and a back panel.
 <img src="https://github.com/miniluigi/Top-Tube-Bag/assets/45057973/f47677ae-5c6d-4611-90ff-72f69c0cdff4" width="300" height="225">
@@ -33,10 +34,27 @@ The bag is made up of two side panels (Left and Right), a top zipper panel, a bo
 |K|Bottom Panel Outer|EVA|N/A|
 |L|Bottom Panel Outer|Nylon|N/A|
 |M|Zipper Panel|VX21|N/A|
-|M|Zipper Gusset|VX21|N/A|
-|M|Zipper Extensions|VX21|N/A|
+|N|Zipper Gusset|VX21|N/A|
+|O|Zipper Extensions|VX21|N/A|
 
-
+|Piece|Panel|Material|Notes|
+|---|---|---|---|
+|A1|Left Side Outer|VX21|N/A|
+|A2|Left Side Foam|EVA|N/A|
+|A3|Left Side Liner|Nylon|N/A|
+|A4|Left Side Mesh|Mesh|N/A|
+|B1|Right Side Outer|VX21|Mirror of Left|
+|B2|Right Side Foam|EVA|Mirror of Left|
+|B3|Right Side Liner|Nylon|Mirror of Left|
+|C1|Back Panel Outer|VX21|N/A|
+|C2|Back Panel Foam|EVA|N/A|
+|C3|Back Panel Liner|Nylon|N/A|
+|D1|Bottom Panel Outer|VX21|N/A|
+|D2|Bottom Panel Outer|EVA|N/A|
+|D3|Bottom Panel Outer|Nylon|N/A|
+|E1|Zipper Panel|VX21|N/A|
+|E2|Zipper Gusset|VX21|N/A|
+|E3|Zipper Extensions|VX21|N/A|
 
 - [x] Upload image of parts list
 - [ ] Draw parts List
