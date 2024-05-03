@@ -29,6 +29,12 @@ The bag is made up of two side panels (Left and Right), a top zipper panel, a bo
 |G|Back Panel Outer|VX21|N/A|
 |H|Back Panel Foam|EVA|N/A|
 |I|Back Panel Liner|Nylon|N/A|
+|J|Bottom Panel Outer|VX21|N/A|
+|K|Bottom Panel Outer|EVA|N/A|
+|L|Bottom Panel Outer|Nylon|N/A|
+|M|Zipper Panel|VX21|N/A|
+|M|Zipper Gusset|VX21|N/A|
+|M|Zipper Extensions|VX21|N/A|
 
 
 
