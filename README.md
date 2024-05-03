@@ -19,23 +19,6 @@ My first design for a top tube on my bike
 
 The bag is made up of two side panels (Left and Right), a top zipper panel, a bottom panel, and a back panel.
 <img src="https://github.com/miniluigi/Top-Tube-Bag/assets/45057973/f47677ae-5c6d-4611-90ff-72f69c0cdff4" width="300" height="225">
-|Piece|Panel|Material|Notes|
-|---|---|---|---|
-|A|Left Side Outer|VX21|N/A|
-|B|Left Side Foam|EVA|N/A|
-|C|Left Side Liner|Nylon|N/A|
-|D|Right Side Outer|VX21|Mirror of Left|
-|E|Right Side Foam|EVA|Mirror of Left|
-|F|Right Side Liner|Nylon|Mirror of Left|
-|G|Back Panel Outer|VX21|N/A|
-|H|Back Panel Foam|EVA|N/A|
-|I|Back Panel Liner|Nylon|N/A|
-|J|Bottom Panel Outer|VX21|N/A|
-|K|Bottom Panel Outer|EVA|N/A|
-|L|Bottom Panel Outer|Nylon|N/A|
-|M|Zipper Panel|VX21|N/A|
-|N|Zipper Gusset|VX21|N/A|
-|O|Zipper Extensions|VX21|N/A|
 
 |Piece|Panel|Material|Notes|
 |---|---|---|---|
